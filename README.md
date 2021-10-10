@@ -1,1 +1,1 @@
-# CLRS
+# Solutions in C/Go for selectd CLRS problems.
